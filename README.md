@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhavukverma17
 - 👀 I’m interested in Ui/UX designing & Full Stack Development.
-- 🌱 I’m currently learning Web development (Mern Stack).
+- 🌱 I’m currently learning App development (React-Native).
 
 
 <!---
